@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.counter{
+  margin: 40%;
+  border: #61dafb 1px solid;
+  padding: 30px;
+}
+.btn {
+  background-color: aqua;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  margin: 5px;
+  font-size: 24px;
+  box-shadow: 5px 5px 5px #61dafb;
+  cursor: pointer;
+}
