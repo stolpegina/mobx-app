@@ -37,8 +37,7 @@
   }
 }
 
-.counter{
-  margin: 40%;
+.counter {
   border: #61dafb 1px solid;
   padding: 30px;
 }
@@ -50,5 +49,18 @@
   margin: 5px;
   font-size: 24px;
   box-shadow: 5px 5px 5px #61dafb;
+  cursor: pointer;
+}
+
+.todos {
+  border: #61dafb 1px solid;
+  padding: 30px;
+}
+.todo{
+  padding: 5px;
+}
+.todo-btn{
+  background-color: aqua;
+  border-radius: 5px;
   cursor: pointer;
 }
